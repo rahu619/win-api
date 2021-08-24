@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8rPNbQjaIzs3PQ/jZqfkr7z4oI+ujoAdwtyb21xCdgNry0D0Eh/pA2z1GaZ6A67anszvwcLtFKBWTsnYqVopPg==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\aiconomix\\windows.search\\windows.search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev_Me\\.nuget\\packages\\microsoft.windows.cswin32\\0.1.506-beta\\microsoft.windows.cswin32.0.1.506-beta.nupkg.sha512",
+    "C:\\Users\\Dev_Me\\.nuget\\packages\\microsoft.windows.sdk.win32docs\\0.1.4-alpha\\microsoft.windows.sdk.win32docs.0.1.4-alpha.nupkg.sha512",
+    "C:\\Users\\Dev_Me\\.nuget\\packages\\microsoft.windows.sdk.win32metadata\\10.2.163-preview\\microsoft.windows.sdk.win32metadata.10.2.163-preview.nupkg.sha512",
+    "C:\\Users\\Dev_Me\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
